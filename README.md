@@ -5,9 +5,15 @@ A professional-grade real-time environmental monitoring system that serves a liv
 ---
 
 ## 📺 Project Demonstration 🎥
-![ESP32 Weather Station](esp32%20weather%20station.mp4)
 
-> *Note: If the video doesn't play automatically in your browser, click the link above to view the live demonstration.*
+<div align="center">
+  <video src="esp32%20weather%20station.mp4" width="400" controls>
+   Your browser does not support the video tag.
+  </video>
+</div>
+
+> *Live demonstration of the sensor data updating on the web dashboard.* 🚀
+
 
 ---
 
