@@ -39,4 +39,4 @@ The following libraries are utilized in this project:
 ## 🔧 Installation & Usage 🛠️
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/grabimayo/ESP32-DHT11-Web-Server.git](https://github.com/grabimayo/ESP32-DHT11-Web-Server.git)
+   git clone [https://github.com/JeslynSaminathan/ESP32-DHT11-Web-Server.git](https://github.com/JeslynSaminathan/ESP32-DHT11-Web-Server.git)
